@@ -1,4 +1,4 @@
-# MBTAheadway
+# MBTA Headway
 This repository contains .ipynb file of an analysis of the MBTA's Green B line service and its level of consistency using BigQuery.
 
 # Contributing Team Members
